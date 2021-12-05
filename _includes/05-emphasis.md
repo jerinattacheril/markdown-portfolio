@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__-I am a good listener__
+
+_-Basics of programing_
+
+*-Can be a good **secret keeper** for you*
